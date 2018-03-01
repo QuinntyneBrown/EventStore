@@ -1,0 +1,10 @@
+﻿{
+  "useMessaging": "false",
+  "clientNamespace": "ce",
+  "version": "core",
+  "rootNamespace": "EventStore",
+  "framework": "AspNetCore",
+  "multiTenant": false,
+  "softDelete": false,
+  "vanillaSql": true
+}

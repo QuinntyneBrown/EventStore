@@ -1,0 +1,12 @@
+:host {
+    display:block;
+    margin:0px 0px 0px 20px;
+    color:#fff;
+    font-weight:600;
+    line-height:2em;
+    cursor:pointer;
+}
+
+ul li {
+    list-style:none;
+}

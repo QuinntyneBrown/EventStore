@@ -1,0 +1,7 @@
+﻿{
+  "useMessaging": "false",
+  "clientNamespace": "ce",
+  "version": "core",
+  "rootNamespace": "EventStore",
+  "framework": "AspNetCore"
+}

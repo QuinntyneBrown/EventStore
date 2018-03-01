@@ -1,0 +1,27 @@
+:host {
+    display: grid;
+    outline: none;
+    width: 100%;
+    background-color: rgb(12, 92, 177);
+    grid-template-columns: 1fr 44px;
+}
+
+input {
+    display: inline-block;
+    line-height: 3em;
+    margin-bottom: 0px;
+    padding: 0px 10px 0px 10px;
+    outline: none;
+    border: none 0px;
+    background-color: rgb(12, 92, 177);
+    color: #fff;
+}
+
+input::-webkit-input-placeholder {
+    color:#fff;
+    font-weight:400;
+}
+
+cs-magnify {
+    margin: 8px auto 0px auto;
+}

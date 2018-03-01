@@ -1,0 +1,11 @@
+:host {
+    display: block;
+    width: 100%;
+    margin: 0px;
+    padding: 0;
+    background-color: #2A7ACF;
+}
+
+cs-search-box {
+    margin:0px 0px 10px 0px;
+}
