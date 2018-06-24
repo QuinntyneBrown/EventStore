@@ -26,12 +26,15 @@ Bin/
 obj/
 Obj/
 
+ClientApp/src/app/**/*.js
+ClientApp/src/app/**/*.js.map
+ClientApp/e2e/**/*.js
+ClientApp/e2e/**/*.js.map
+
+ClientApp/node_modules
+
 # Visual Studio 2015 cache/options directory
 .vs/
-/wwwroot/dist/
-/src/dist/
-/src/**/*.js
-/src/**/*.js.map
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
@@ -186,8 +189,6 @@ ClientBin/
 orleans.codegen.cs
 
 /node_modules
-
-/yarn.lock
 
 # RIA/Silverlight projects
 Generated_Code/
